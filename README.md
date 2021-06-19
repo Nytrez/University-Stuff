@@ -1,2 +1,2 @@
 # University-Stuff
-studying over 9000%
+only programming courses except DrRacket
