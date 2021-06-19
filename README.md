@@ -1,2 +1,2 @@
 # University-Stuff
-only programming courses except DrRacket
+only programming courses
